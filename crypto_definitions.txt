@@ -1,0 +1,33 @@
+Cryptography: A practice of protecting and securing information.
+
+Cryptocurrency: A digital currency that is secured through cryptographgy. 
+
+Blockchain: A database of information/data that is stored which is stored across a network of computers known as nodes.
+
+Exchange: A place to buy and sell cryptocurrencies.
+
+Wallet: Storage location for digital assets (cryptocurrency).
+
+Whitepaper: A document that explains the problem that a project is trying to solve, including a detailed description of the product, architecture and implementation
+
+Smart Contracts: An agreement between a buyer and seller which is directly written into code stored in the blockchain. This allows trusted transactions to be carried out without a central authority.
+
+Decentralized Finance (DeFi): Financial system that does not rely on a centralized bank, brokerage or exchange and instead uses smart contracts on blockchains.
+
+Deentralized Apps (dApps): Applications that run on a blockchain, therefore they are free from control from any authority. 
+
+Mining: Process of solving cryptographical puzzles to verify transactions on a blockchain.
+
+Hash Rate: Measuring unit of processing power while mining.
+
+Gas: Fee paid while making a transaction on the blockchain.
+
+Fork: A change to the blockchain that is not backwards compatible
+
+Non Fungible Tokens (NFTs): Enables virtual transactions of art, music, trading cards, etc. using smart contracts.
+
+Proof of Work (PoW): Process of members using computing power to solve cryptographical puzzles making it difficult to manipulate the data in the blockchain.
+
+Proof of Stake (PoS): People can mine/validate blocks according to how many coins they hold. Therefore, mining power is in relationship with the number of coins in possession.
+
+51% Attack: More than half of the computing power/mining hash rate on a blockchain is controlled by a single person thus making it centralized and less secure.
